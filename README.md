@@ -2,7 +2,7 @@
 
 *We are trying to predict the global air pollution levels using different models. We used features like Country,	City,CO AQI Value,Ozone AQI Value,NO2 AQI Value. We tested many models and tuned them to check which one gives the best result.*
 
-##***2. Dataset Details***
+## ***2. Dataset Details***
 
 ***Features used:***
 
